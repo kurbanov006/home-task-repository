@@ -1,0 +1,6 @@
+@home_task_pattern_repository_HostAddress = http://localhost:5276
+
+GET {{home_task_pattern_repository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
